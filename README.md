@@ -1,5 +1,5 @@
 # ECE-GY-9163-Backdoor-Attack
-# New York University
+## New York University
 
 ### Name: Vamsi Krishna Bunga
 ### Net ID: vb2279
